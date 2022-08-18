@@ -1,5 +1,5 @@
 # Aeries_JacquelynneHeiman
-Aeries Technical Assesment
+## Aeries Technical Assesment
 
 Hello! This is my technical assessment for the Junior Developer role. Thank you so much for this opportunity! Below you will find detailed instructions on how to download the project and run it.
 
