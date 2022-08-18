@@ -6,7 +6,7 @@ Hello! This is my technical assessment for the Junior Developer role. Thank you 
 # MySQL
 This project uses a mySQL community server which I have set up. To gain access to the server please follow the steps below for your target opperating system.
 
-- Install mySQL community on your computer if you don't already have it here: [https://www.mysql.com/products/community/](https://www.mysql.com/products/community/)
+- Install mySQL community on your computer if you don't already have it: [https://www.mysql.com/products/community/](https://www.mysql.com/products/community/)
 - Install mySQL Workbench, use the link to download MySQL Workbench: [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)
 
 ## MySQL Workbench
