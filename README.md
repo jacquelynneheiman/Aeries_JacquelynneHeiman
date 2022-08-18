@@ -3,11 +3,29 @@
 
 Hello! This is my technical assessment for the Junior Developer role. Thank you so much for this opportunity! Below you will find detailed instructions on how to download the project and run it.
 
+
 ## MySQL
 This project uses a mySQL community server which I have set up. To gain access to the server please follow the steps below for your target opperating system.
 
 - Install mySQL community on your computer if you don't already have it: [https://www.mysql.com/products/community/](https://www.mysql.com/products/community/)
 - Install mySQL Workbench, use the link to download MySQL Workbench: [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)
+
+### MySQL Connection String
+In the project, you'll find the connection string in ```JacquelynneHeiman_Aeries/Services/ConnectMySQL.cs``` on line 16. The connection string that I used to connect to my MySQL Community server is:
+
+  ```"Persist Security Info = False;Server=192.168.0.95;Port=3306;database=Aeries_StudentData;User Id=aeries;Password=Aeries2022;"```
+  
+If you are going to be using a different database make sure you make changes to the connection string to reflect your server and database. See the example below:
+
+```"Persist Security Info=False;Server=YOUR_SERVER_IP;Port=YOUR_PORT;database=YOUR_DATABASE_NAME;User Id=YOUR_USER_ID;Password=YOUR_PASSWORD;"```
+
+Make sure you set:
+
+  - YOUR_SERVER_IP: The IP address of your MySQL server.
+  - YOUR_PORT: The port you'll need to connect to to access your server.
+  - YOUR_DATABASE_NAME: The name of the database that you want to access.
+  - YOUR_USER_ID: The username you want to use to access the database. If you haven't added user it may be "root".
+  - YOUR_PASSWORD: The password you set for the user you are trying to access the server with.
 
 ### MySQL Workbench
 
