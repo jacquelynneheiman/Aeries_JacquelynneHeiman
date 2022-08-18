@@ -3,13 +3,13 @@
 
 Hello! This is my technical assessment for the Junior Developer role. Thank you so much for this opportunity! Below you will find detailed instructions on how to download the project and run it.
 
-# MySQL
+## MySQL
 This project uses a mySQL community server which I have set up. To gain access to the server please follow the steps below for your target opperating system.
 
 - Install mySQL community on your computer if you don't already have it: [https://www.mysql.com/products/community/](https://www.mysql.com/products/community/)
 - Install mySQL Workbench, use the link to download MySQL Workbench: [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)
 
-## MySQL Workbench
+### MySQL Workbench
 
 1. Launch MySQL Workbench
 2. Click the + symbol next to "MySQL Connections"
@@ -35,7 +35,7 @@ This project uses a mySQL community server which I have set up. To gain access t
  
  You should now see the connect in the "MySQL Connections" tab. Your're connected!
 
-## Mac or Linux Terminal
+### Mac or Linux Terminal
 
 1. Open your terminal
 2. Type the following command into your terminal
@@ -68,13 +68,13 @@ You will see a success message if you successfully connected to the server.
 # Clone the Repo
 Once you have access to the database you'll need to clone the project from the repo (if you haven't already).
 
-# Open the project
+## Open the project
 With the repo cloned:
   - Open the solution in Visual Studio Community 2022
   - With the solution open, press f5 to debug. 
   - You may have to tell the browser to trust the certificate. If so, select "Trust" and the page will open.
 
-# Yay!
+## Yay!
 Hurray! It should be working now and you should see my web application :)
 
 - With the page loaded you should see a web page with my name at the top and a table labeled "Student Contacts". 
