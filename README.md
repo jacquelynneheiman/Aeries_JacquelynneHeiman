@@ -66,7 +66,7 @@ This project uses a mySQL community server which I have set up. To gain access t
 You will see a success message if you successfully connected to the server.
 
 # Clone the Repo
-Once you have access to the database you'll need to clone the project from the repo, if you haven't already.
+Once you have access to the database you'll need to clone the project from the repo (if you haven't already).
 
 # Open the project
 With the repo cloned:
