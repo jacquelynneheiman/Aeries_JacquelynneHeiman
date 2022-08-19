@@ -10,7 +10,7 @@ This project was a technical assessment for an interview at Aeries Software for 
 The goal(s) of this project were:
   
   - Create an object-oriented single web page applications that displayed fake student data from a database using .NET and any database of my choice.
-  - When the user selects a student, the contact information of that student should be retrieved from the data base and displayed on the same page.
+  - When the user selects a student, the contact information of that student should be retrieved from the database and displayed on the same page.
   - Create a database that is populated with the provided tables (Student Data and Contact Data).
 
 ### Project Deliverables
