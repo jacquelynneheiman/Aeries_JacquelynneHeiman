@@ -35,7 +35,13 @@ I am very proud of the work that I did here! During this project I:
   - Created my own favicon and added it to the web app.
 
 ### What methods worked well?
-There were a lot of challenges to overcome in this project. To overcome them, I did a lot of trial and error as well as research on the Microsoft Documentation pages and other areas of the web. When I wasn't sure about how to do something, I would try it the way that I thought it might work first. For most things, this was successfull and I was able to overcome the challenge. However, when I was unable to figure it out in a 30 minute time frame on my own I went to google and used my master search engine skills to try to find a tatic for overcoming the challenge. In most cases, I was able to find the answer quickly. Upon solving the issue, I make sure I review what happened and why. So that I can understand why it occured and how I solved it. I feel that this is very important because it not only helps you improve your skill as a developer but it makes it less likely that you'll make the same mistake in the future.
+There were a lot of challenges to overcome in this project. To overcome them I:
+
+  - Used trial and error to construct my own solutions to problems when I wasn't sure how to do something.
+  - Researched on the Microsoft Documentation pages and other areas of the web after trial and error didn't work. 
+  - Reviewed unexpected behavior, inspected why it was occurring and gained understanding on how to resolve it.
+ 
+During the course of the project I would try it the way that I thought it might work first. Then, when I was unable to figure it out I used Google to find a tatic for overcoming the challenge. In most cases, I was able to find an answer quickly. Upon solving the issue, I make sure I reviewed what happened and why so that I can understand why it occured as well as how I solved it. I feel that this is very important because it not only helps me improve my skill as a developer but it makes it less likely that I'll make the same mistake in the future.
 
 ### What was found to be particularly useful for accomplishing the project?
 I think the most invaluable resource for me while working on this project was the Microsoft Visual Studio documentation. I spent a lot of time reading about what I was trying to accomplish. I was able to use the documentation to find information on everything I wanted to do.
