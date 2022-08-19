@@ -53,7 +53,6 @@ The things that went wrong are:
   - Getting started on the project:      
     - My husband had a medical emergency on the day that I received the technical assessment. So I was unable to start it until Monday as we spent all of Sunday in the ER. 
     - We lost power for half the day on Monday due to someone hitting a powerline near our home, so I lost about 4 hours of work time while I waited for the power to come back on.
-    - I was unfamiliar with creating a web application in Visual Studio for Mac when I started it on Monday afternoon so I had to learn how the files work together to create a webpage. I spent all of Monday night reading about it in the Microsoft Documentation and watching videos on YouTube to familiarize myself with it.
     
   - Enabling my MySQL server to be remotely accessed:
     - I followed several tutorials online to be able to connect the MySQL server from another computer to no avail. The tutorials ommited that I needed to forward the port from the router. I was able to figure this out and open the port, which finally allowed our windows computer to access the database on my Mac.  
