@@ -41,10 +41,10 @@ There were a lot of challenges to overcome in this project. To overcome them I:
   - Researched on the Microsoft Documentation pages and other areas of the web after trial and error didn't work. 
   - Reviewed unexpected behavior, inspected why it was occurring and gained understanding on how to resolve it.
  
-During the course of the project, I would try to resolve issues the way that I thought it might work first. If I was unable to figure it out on my own I used Google to find a tatic for overcoming the challenge. In most cases, I was able to find an answer quickly. Upon solving the issue, I make sure I reviewed what happened and why so that I can understand why it occured as well as how I solved it. I feel that this is very important because it not only helps me improve my skill as a developer but it makes it less likely that I'll make the same mistake in the future.
+During the course of the project, I would try to resolve issues the way that I thought it might work first. If I was unable to figure it out on my own I used Google to find a tatic for overcoming the challenge. In most cases, I was able to find an answer quickly. Upon solving the issue, I made sure I reviewed what happened and why so that I could understand why it occured as well as how I solved it. I feel that this is very important because it not only helps me improve my skill as a developer but it makes it less likely that I'll make the same mistake in the future.
 
 ### What was found to be particularly useful for accomplishing the project?
-I think the most invaluable resource for me while working on this project was the Microsoft Visual Studio documentation. I spent a lot of time reading about what I was trying to accomplish. I was able to use the documentation to find information on everything I wanted to do.
+I think the most invaluable resource for me while working on this project was the Microsoft Visual Studio documentation. I spent time reading about what I was trying to accomplish when I wasn't sure how to accomplish the task. I was able to use the documentation to find most of the information on the tasks I wanted to complete.
 
 ## Project Challenges
 ### What elements of the project went wrong?
