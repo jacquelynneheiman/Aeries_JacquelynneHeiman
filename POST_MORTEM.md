@@ -1,8 +1,7 @@
 # Jacquelynne Heiman Post Mortem
 
-## Details
-Date: August 18, 2022
-Owner: Jacquelynne Heiman
+Date: August 18, 2022     
+Owner: Jacquelynne Heiman        
 
 ## Project Overview
 This project was a technical assessment for an interview at Aeries Softwares for the role of Junior Developer. I had an interview with Matthew and the lead of the Junior developers at the company. As a result of the interview, I was asked to complete the technical assessment. 
