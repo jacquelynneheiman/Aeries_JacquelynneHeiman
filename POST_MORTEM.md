@@ -26,7 +26,7 @@ At the time of submission I had thought that the project had been completed to t
 ### What were the major accomplishments?
 I am very proud of the work that I did here! During this project I:
   
-  - Learned more about the ASP.NET web applications and how to create one using the MVC template in Visual Studio. 
+  - Learned more about the ASP.NET web applications and how to create one using the MVC(Model, View, Controller) template in Visual Studio. 
   - Successfully created a MySQL Community server and set it up for remote access. 
   - Successfully displayed a table in HTML to hold the student and contact data on the web page.
   - Used JavaScript to show and hide the contact information for each student in the table.
