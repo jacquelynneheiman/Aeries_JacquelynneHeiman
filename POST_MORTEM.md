@@ -50,13 +50,18 @@ I think the most invaluable resource for me while working on this project was th
 ### What elements of the project went wrong?
 The things that went wrong are:
 
-  - Getting started on the project:
+  - Getting started on the project:      
+
     - My husband had a medical emergency on the day that I reveived the technical assessment. So I was unable to start it until Monday as we spent all of Sunday in the ER. 
     - We lost power for half the day on Monday due to someone hitting a powerline near our home, so I lost about 4 hours of work time while I waited for the power to come back on.
     - I was unfamiliar with creating a web application in Visual Studio for Mac when I started it on Monday afternoon so I had to learn how the files work together to create a webpage. I spent all of Monday night reading about it in the Microsoft Documentation and watching videos on YouTube to familiarize myself with it.
+
   - Enabling my MySQL server to be remotely accessed
+
     - I followed several tutorials online to be able to connect the MySQL server from another computer to no avail. The tutorials ommited that I needed to forward the port from the router. I was able to figure this out and open the port, which finally allowed our windows computer to access the database on my Mac.  
+
   - Deploying to Azure
+
     - Publishing to Azure was simple enough, I was able to create a free account and a new web application in the portal. I was able to connect Azure to my GitHub account where it would build the application whenever I pushed updates to it. 
     - Where I ran into trouble was actually running the app. When I ran the app I was greeted with a HTTP 500 error. Confused by this, I immeadeately started trying to figure out how to view the console logs. For this, I googled until I figured up how to set up the log and view it. Once I figured that out, I was able to get more information on the HTTP 500 error. 
     - I also attempted to add debug messages but Azure doesn't display the output of ```Console.WriteLine("This is a debug message!");``` statements so I had to do some research to figure out how get debug messages to show up in the Azure Application Console. 
