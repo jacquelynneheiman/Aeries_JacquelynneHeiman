@@ -105,59 +105,53 @@ I don't think so, I have done everything listed in the requirements. Though I mi
 ### Planning
 My originial plan:
 
-|     Day   | Planned Goal |
-| --------- | ------------ |
-|   Monday  | Learn the Visual Studio pipeline for ASP.NET MVC web applications |
-|           | Start on designing the layout of the web page |
-|           | Create the MySQL server and database |
-|           | Add the student and contact data to the database |
-|  Tuesday  | Access the data in the database and display it on the web page |
-|           | Figure out how to add table elments(HTML) dynamically at runtime |
-|           | Configure the MySQL server to allow remote connections  |
+|    Day    |                              Planned Goals                                | 
+| --------- | ------------------------------------------------------------------------- |
+|   Monday  | Learn the Visual Studio pipeline for ASP.NET MVC web applications         |
+|           | Start on designing the layout of the web page                             |
+|           | Create the MySQL server and database                                      |
+|           | Add the student and contact data to the database                          |
+|           |                                                                           |
+|  Tuesday  | Access the data in the database and display it on the web page            |
+|           | Figure out how to add table elments(HTML) dynamically at runtime          |
+|           | Configure the MySQL server to allow remote connections                    |
 |           | Create show/hide functionality of the dropdown arrow button in JavaScript |
-| Wednesday | Test the web application on multiple different computers and browsers |
-|           | Create my own favicon |
-|           | Submit assessment |
+|           |                                                                           |
+| Wednesday | Test the web application on multiple different computers and browsers     |
+|           | Create and implement my own favicon                                       |
+|           | Submit assessment                                                         |
 
 ### Execution
 I created small achieveable goals that I was able to achieve rather quickly;
 
-|    Day    |                          Planned Goal                             |      Status       |
-| --------- | ----------------------------------------------------------------- | ----------------- |
-|  Monday   | Learn the Visual Studio pipeline for ASP.NET MVC web applications | Planned, Done     |
-|           | Start on designing the layout of the web app                      | Planned, Done     |
-|           | Create the MySQL server and database                              | Planned, Done     |
-|  Tuesday  | 
-| Wednesday |
-| Thursday  |
+|    Day    |                          Planned Goals                                     |    Unplanned Goals   | Status (By the End of Day) |
+| --------- | -------------------------------------------------------------------------- | -------------------- | -------------------------- |
+|  Monday   | Learn the Visual Studio pipeline for ASP.NET MVC web applications          |                      | Done                       |
+|           | Start on designing the layout of the web app                               |                      | Done                       |
+|           | Create the MySQL server and database                                       |                      | In Progress                |
+|           | Add data to the database                                                   |                      | Not Started                |
+|           |                                                                            |                      |                            |
+|  Tuesday  | Create the MySQL server and database                                       |                      | Done                       |
+|           | Add data to database                                                       |                      | Done                       |
+|           | Access database through code and display the data on the web page          |                      | Done                       |
+|           | Figure out how to add table elements (HTML) dynamically at runtime         |                      | Done                       |
+|           | Configure MySQL server to allow remote connections                         |                      | In Progress                |
+|           | Create show/hide functionality of the dropdown arrow buttons in JavaScript |                      | Not Started.               |
+|           |                                                                            |                      |                            |
+| Wednesday | Configure the MySQL server to allow remote connections                     |                      | Done                       |
+|           | Create show/hide functionality of the dropdown arrow buttons in JavaScript |                      | Done                       |
+|           | Create and implement my own favicon                                        |                      | Done                       |
+|           | Test the web app on multiple different computers                           |                      | In Progress                | 
+|           | Submit assessment                                                          |                      | Not Started                |
+|           |                                                                            | Deploy on Azure      | Not Started                |
+|           |                                                                            |                      |                            |
+| Thursday  |                                                                            | Debug HTTP 500 error | Cut                        |
+|           |                                                                            | Deploy on Azure      | Cut                        |
+|           | Submit assessment                                                          |                      | Done                       |
 
-- Monday (Day 1): 
-  - Learn the Visual Studio pipeline for ASP.NET MVC Web Applications. (Planned, Finished)
-  - Start on designing the layout of the web app. (Planned, Finished)
-  - Create the MySQL server and database. (Planned, not finished -> move to Day 2)
-  - Add data to database (Planned, not finished -> move to Day 2)
-- Tuesday (Day 2):
-  - Create the MySQL server and database (Moved from Day 1, Finished)
-  - Add data to database (Moved from Day 1, Finished)
-  - Access the database through code and display the data on the web page. (Planned, Finished)
-  - Figure out how to add table elments(HTML) dynamically at runtime. (Planned, Finished)
-  - Configure the MySQL server to allow remote connections. (Planned, not finished -> move to Day 3)
-  - Create show/hide functionality of the dropdown arrow button in JavaScript. (Planned, not finished -> move to Day 3)
-- Wednesday (Day 3):
-  - Configure the MySQL server to allow remote connections. (Moved from Day 2, Finished) 
-  - Create show/hide functionality of the dropdown arrow button in JavaScript. (Moved from Day 2, Finished)
-  - Test the web app on multiple different computers. (Planned, Finished)
-  - Create my own favicon. (Planned, Finished)
-  - Deploy to Azure (Not Planned, not finished -> move to Day 4)
-  - Submit assessment (Planned, not finished -> move to Day 4)
-- Thursday (Day 4):
-  - Debug HTTP 500 error (Not Planned, not finished -> Cut)
-  - Submit assessment (Moved from Day 3, Finished)
+During the course of the project I used a desktop Kanban board to keep track of which goals I had completed and which goals I needed to still work towards.
 
-I used a desktop Kanban board to keep track of which goals I had met during the course of the project.
+### Overall
+Overall, I would say that all of the project requirements we met and all of my planned goals were achieved. 
 
-
-
-
-
-
+The biggest lesson that I learned from this project is that I need to make sure not to add more goals during the course of making the web app. I tried to use Azure as a way to solve to connection isses I was having with the MySQL server but it wasn't a viable solution. I should have been quicker to realize that it wasn't going to work and to look for another solution. Had I been quicker to cut deploying to Azure, I could have spent more time polishing the web application visually and functionally.
