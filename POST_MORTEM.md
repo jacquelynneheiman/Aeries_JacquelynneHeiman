@@ -55,7 +55,7 @@ The things that went wrong are:
     - We lost power for half the day on Monday due to someone hitting a powerline near our home, so I lost about 4 hours of work time while I waited for the power to come back on.
     
   - Enabling my MySQL server to be remotely accessed:
-    - I followed several tutorials online to be able to connect the MySQL server from another computer to no avail. The tutorials ommited that I needed to forward the port from the router. I was able to figure this out and open the port, which finally allowed our windows computer to access the database on my Mac.  
+    - I followed several tutorials online to be able to connect the MySQL server from another computer to no avail. The tutorials ommited that I needed to forward the port from the router. I was able to figure this out and open the port, which finally allowed our Windows computer to access the database on my Mac.  
 
   - Deploying to Azure
     - Publishing to Azure was simple enough, I was able to create a free account and a new web application in the portal. I was able to connect Azure to my GitHub account where it would build the application whenever I pushed updates to it. 
